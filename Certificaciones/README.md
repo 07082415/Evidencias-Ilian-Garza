@@ -1,19 +1,14 @@
-**Ciencia de Datos & SQL**
+Evidencia de formación continua y especialización tecnológica avanzada.
 
-Certificado Profesional: Python, SQL & Tableau for Data Science (Mayo 2026).
+Compendio de competencias técnicas adquiridas en herramientas críticas para el análisis de datos moderno:
 
-Advanced Techniques: AWS Integration & Real-world solutions (Abril/Mayo 2026).
+Programación y Bases de Datos: Dominio de Python (Certificado Profesional), SQL y gestión de entornos en AWS.
 
-Core Tools: Python & SQL for Data Science (Abril 2026).
+Estadística y Modelado: Especialización en R para estadística descriptiva e inferencial, así como metodologías avanzadas de Ciencia de Datos.
 
-**Estadística & R**
+Visualización y Business Intelligence: Desarrollo de tableros estratégicos en Tableau, Excel y Cognos.
 
-R-Studio: Estadística descriptiva y pruebas no paramétricas (2022-2023).
-
-**Visualización & BI**
-
-Tableau & Excel: Dashboards y visualización avanzada (2021-2026).
-
+Control de Versiones: Implementación profesional de Git y GitHub para el desarrollo de proyectos colaborativos.
 
 
 ---------
