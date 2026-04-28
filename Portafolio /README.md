@@ -2,12 +2,12 @@
 
 Análisis Temporal: Desarrollo de modelos para el estudio de series de tiempo, orientados al pronóstico de variables económicas y detección de tendencias.
 
-Machine Learning (Clasificación): Aplicación de algoritmos supervisados para la categorización y predicción de eventos institucionales.
+Clasificación: Aplicación de algoritmos supervisados para la categorización y predicción de eventos.
 
 Agrupamiento (Clustering): Implementación de aprendizaje no supervisado para la segmentación de datos y el descubrimiento de patrones ocultos.
 
 Selección de Características: Uso de técnicas para identificar las variables de mayor impacto en la precisión y eficiencia de los modelos.
 
-Outliers y Detección de Anomalías: Métodos estadísticos para la identificación de irregularidades en los datos, cruciales para procesos de auditoría y fiscalización.
+Outliers y Detección de Anomalías: Métodos estadísticos para la identificación de irregularidades en los datos.
 
 Dashboards: Diseño de herramientas visuales interactivas que transforman datos crudos en indicadores estratégicos para la toma de decisiones.
