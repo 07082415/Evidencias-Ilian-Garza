@@ -9,7 +9,7 @@ Esta sección destaca los pilares estratégicos que definen la capacidad analít
 
 ###  Formación y Estancias de Investigación
 * **Estancia de Investigación Internacional | Universidad de Florencia, Italia:** Participación en el análisis macroeconómico avanzado e implementación de diversos modelos de aprendizaje automático (Sep 2025 – Abr 2026).
-  [Ver detalles en Investigación y Análisis](/Acreditación_Académica)
+  [Ver detalles en Análisis_Estratégico_y_Entregables_Técnicos](/Análisis_Estratégico_y_Entregables_Técnicos)
 
 * **Maestría en Ciencia de Datos y Optimización | CIMA-UAdeC:** Especialización en el uso de algoritmos de aprendizaje automático para el pronóstico del consumo agregado post-COVID-19.
   [Ver Acreditación Académica](/Acreditación_Académica)
