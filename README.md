@@ -12,7 +12,7 @@ Esta sección destaca los pilares estratégicos que definen la capacidad analít
   [Ver detalles en Investigación y Análisis](/Acreditación_Académica)
 
 * **Maestría en Ciencia de Datos y Optimización | CIMA-UAdeC:** Especialización en el uso de algoritmos de aprendizaje automático para el pronóstico del consumo agregado post-COVID-19.
-  [Ver Acreditación Académica](/Acreditacién_Académica)
+  [Ver Acreditación Académica](/Acreditación_Académica)
 
 ###  Excelencia Técnica y Profesional
 * **Evaluación de Desempeño y Marco Lógico:** Diseño y aplicación de documentos normativos para la optimización de recursos y cumplimiento de objetivos institucionales.
