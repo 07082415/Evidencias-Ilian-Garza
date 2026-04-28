@@ -1,4 +1,4 @@
-Productos de investigación aplicada y documentos normativos de alto impacto institucional, integra la producción intelectual y técnica generada, estructurada en dos ejes principales:
+**Productos de investigación aplicada y documentos normativos de alto impacto institucional, integra la producción intelectual y técnica generada, estructurada en dos ejes principales:**
 
 Investigación Científica: Artículos, ponencias internacionales (destacando la estancia de investigación en la Universidad de Florencia) y capítulos de libros enfocados en macroeconomía y modelos de optimización.
 
