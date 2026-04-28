@@ -23,4 +23,4 @@ Esta sección destaca los pilares estratégicos que definen la capacidad analít
 
 ###  Proyectos Destacados de Portafolio
 * **Modelado Predictivo con Algoritmos Avanzados:** Implementación de XGBoost, Random Forest y SVM para la resolución de problemas complejos y diagnósticos accionables.
-  [Explorar Portafolio](/Portafolio)
+  [Explorar Portafolio](/ Portafolio)
