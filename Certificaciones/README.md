@@ -1,4 +1,4 @@
-Evidencia de formación continua y especialización tecnológica avanzada.
+**Evidencia de formación continua y especialización tecnológica avanzada.**
 
 Programación y Bases de Datos: Dominio de Python (Certificado Profesional), SQL y gestión de entornos en AWS.
 
