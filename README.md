@@ -16,7 +16,7 @@ Esta sección destaca los pilares estratégicos que definen la capacidad analít
 
 ###  Excelencia Técnica y Profesional
 * **Evaluación de Desempeño y Marco Lógico:** Diseño y aplicación de documentos normativos para la optimización de recursos y cumplimiento de objetivos institucionales.
-  [Ver Documentos Técnicos](/Análisis_Estratégico_y_Entregables_Técnicos/)
+  [Ver Gestión_de_Proyectos_Basada_en_Resultados](/Análisis_Estratégico_y_Entregables_Técnicos/Gestión_de_Proyectos_Basada_en_Resultados)
 
 * **Certificado Profesional en Data Science (2026):** Validación integral de competencias en Python, SQL, Tableau y despliegue de soluciones en la nube (AWS).
   [Ver Certificaciones](/Certificaciones)
