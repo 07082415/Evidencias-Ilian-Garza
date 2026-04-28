@@ -12,14 +12,14 @@ Esta sección destaca los pilares estratégicos que definen la capacidad analít
   [Ver detalles en Investigación y Análisis](/Acreditación_Académica)
 
 * **Maestría en Ciencia de Datos y Optimización | CIMA-UAdeC:** Especialización en el uso de algoritmos de aprendizaje automático para el pronóstico del consumo agregado post-COVID-19.
-  [Ver Acreditación Académica](/Acreditacién_Académica/)
+  [Ver Acreditación Académica](/Acreditacién_Académica)
 
 ###  Excelencia Técnica y Profesional
 * **Evaluación de Desempeño y Marco Lógico:** Diseño y aplicación de documentos normativos para la optimización de recursos y cumplimiento de objetivos institucionales.
-  [Ver Documentos Técnicos](/Investigación_y_Análisis_Técnico/)
+  [Ver Documentos Técnicos](/Investigación_y_Análisis_Técnico)
 
 * **Certificado Profesional en Data Science (2026):** Validación integral de competencias en Python, SQL, Tableau y despliegue de soluciones en la nube (AWS).
-  [Ver Certificaciones](/Certificaciones/)
+  [Ver Certificaciones](/Certificaciones)
 
 ###  Proyectos Destacados de Portafolio
 * **Modelado Predictivo con Algoritmos Avanzados:** Implementación de XGBoost, Random Forest y SVM para la resolución de problemas complejos y diagnósticos accionables.
