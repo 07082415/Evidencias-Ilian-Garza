@@ -1,13 +1,13 @@
-**Exhibición de proyectos prácticos y experimentales donde se aplican técnicas avanzadas de Ciencia de Datos y Estadística para la resolución de problemas, este espacio detalla la implementación de metodologías analíticas y algoritmos de aprendizaje automático, organizados por áreas de especialización:**
+**Exhibición de proyectos prácticos y experimentales donde se aplican técnicas avanzadas de Ciencia de Datos y Estadística para la resolución de problemas, este espacio detalla la implementación de metodologías analíticas y algoritmos de aprendizaje automático:**
 
-Análisis Temporal: Desarrollo de modelos para el estudio de series de tiempo, orientados al pronóstico de variables económicas y detección de tendencias.
+Análisis Temporal: Desarrollo de modelos para el estudio de series de tiempo con alta complejidad estructural. Incluye el tratamiento de frecuencias mixtas y el diseño de arquitecturas de predicción, herramientas críticas para la planeación y monitoreo de indicadores.
 
-Clasificación: Aplicación de algoritmos supervisados para la categorización y predicción de eventos.
+Regresión: Aplicación de modelos econométricos para el análisis de causalidad y optimización de recursos.
 
-Agrupamiento (Clustering): Implementación de aprendizaje no supervisado para la segmentación de datos y el descubrimiento de patrones ocultos.
+Clasificación: Implementación de algoritmos supervisados para la predicción de eventos, útil en la categorización de usuarios, análisis de crédito o comportamiento organizacional.
 
-Selección de Características: Uso de técnicas para identificar las variables de mayor impacto en la precisión y eficiencia de los modelos.
+Agrupamiento (Clustering): Uso de aprendizaje no supervisado para la segmentación de mercados, descubrimiento de patrones y análisis de conglomerados.
 
-Outliers y Detección de Anomalías: Métodos estadísticos para la identificación de irregularidades en los datos.
+Selección de Características: Técnicas de optimización de modelos para mejorar la eficiencia computacional y la precisión en la toma de decisiones.
 
-Dashboards: Diseño de herramientas visuales interactivas que transforman datos crudos en indicadores estratégicos para la toma de decisiones.
+Outliers y Detección de Anomalías: Uso de algoritmos de aprendizaje automático para identificar desviaciones críticas y gestión de riesgos.
