@@ -1,6 +1,6 @@
 En esta sección se agrupan los elementos técnicos, así como habilidades prácticas para la realización de tareas de ciencias de datos.
 
-Programación y Análisis Estadístico mediante Python (2024)
+Programación y Análisis Estadístico mediante Python (2024) -cert-2024-python-statistical-analysis.pdf  ***
 
 SQL for Data Science and Version Control (2026)
 
