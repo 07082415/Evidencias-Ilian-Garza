@@ -6,9 +6,11 @@ Diseño e implementación de la Evaluación de Diseño al Programa Estatal de De
 
 **Informe Anual de Resultados ASEC 2024 - publicado en Diciembre 2025:**
 
-Implementación de Evaluaciones de Diagnostico a Programas Sectoriales 2023- 2029 (2025):
+Implementación de Evaluaciones de Diagnóstico a Programas Sectoriales 2023- 2029 (2025):
 
   - Programa Estatal de Empleo y Estabilidad Laboral
   - Programa Estatal de Fiscalización y Rendición de Cuentas
   - Programa Estatal de Inclusión y Desarrollo Social
   - Programa Estatal de Medio Ambiente
+
+Implementación de Auditorias Generales de Desempeño a organismos municipales descentralizados (2025)
