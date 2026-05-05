@@ -1,10 +1,12 @@
-Repositorio de análisis cuantitativos y proyectos de modelado enfocados en economía, ciencia de datos y análisis aplicado.
+El contenido corresponde a publicaciones, investigaciones y análisis desarrollados en entornos académicos y aplicados.
 
-Los trabajos integran herramientas estadísticas, econométricas y de machine learning para el análisis de tendencias, selección de variables y generación de insights orientados a la toma de decisiones.
+Los trabajos integran herramientas de econometría, machine learning y análisis de datos para explorar dinámicas económicas, identificar patrones y generar evidencia para la comprensión de fenómenos complejos.
 
-El contenido incluye:
-- Análisis económico y sectorial
+Las líneas de trabajo incluyen:
+- Análisis macroeconómico y sectorial
 - Modelado estadístico y econométrico
-- Series de tiempo y análisis predictivo
-- Selección y evaluación de variables
+- Series de tiempo
+- Selección y análisis de variables
+- Análisis post COVID-19
 - Interpretación y comunicación de resultados técnicos
+
