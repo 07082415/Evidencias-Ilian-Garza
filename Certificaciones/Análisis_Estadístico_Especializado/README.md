@@ -1,4 +1,4 @@
-Estadística en R-Studio (2022) - cert-2022-rstudio-statistics.pdf **
+Estadística en R-Studio (2022) 
 
 Basic descriptives using R Cmdr (2023)
 
