@@ -1,6 +1,6 @@
 # Evidencias-Ilian-Garza
 
-Este repositorio constituye mi expediente profesional y técnico, integrando de manera sistemática mi formación académica de grado y posgrado, certificaciones de especialización tecnológica y una sólida producción de investigación aplicada; Concebido como un portafolio de evidencias integral, este espacio documenta el dominio de herramientas de ciencia de datos, el desarrollo de marcos normativos y la ejecución de evaluaciones de desempeño, ofreciendo total transparencia y rigor sobre las competencias estratégicas desarrolladas a lo largo de mi carrera.
+Este repositorio integra mi expediente profesional y técnica, integrando de manera sistemática respecto a mi formación académica, certificaciones de especialización tecnológica y producción de investigación aplicada, documentando el dominio de herramientas de ciencia de datos, el desarrollo de marcos normativos y la ejecución de evaluaciones de desempeño, ofreciendo evidencia sobre las competencias estratégicas desarrolladas a lo largo de mi carrera.
 
 
 ##  Logros y Proyectos de Mayor Relevancia
