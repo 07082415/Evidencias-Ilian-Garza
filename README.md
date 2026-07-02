@@ -1,6 +1,6 @@
 # Evidencias-Ilian-Garza
 
-Este repositorio corresponde a un ecosistema de ciencia de datos, economía e investigación, el cual integra mi portafolio profesional y técnico de manera sistemática, conteniendo información respecto proyectos (Modelos de Machine Learning, Econometría y Series de Tiempo en Python/R), certificaciones (Validación técnica en Python, SQL, Tableau y Power BI), investigación (Publicaciones científicas y análisis de evaluación de desempeño) y acreditaciones (Respaldo académico de mi formación en Economía y Ciencia de Datos), ofreciendo evidencia sobre las competencias estratégicas desarrolladas a lo largo de mi carrera, con el objetivo de transformar datos complejos en decisiones estratégicas con rigor científico y transparencia.
+Este repositorio corresponde a un ecosistema de ciencia de datos, economía e investigación, el cual integra mi portafolio profesional y técnico de manera sistemática, conteniendo información respecto proyectos (modelos de machine learning, econometría y series de tiempo en Python/R), certificaciones (validación técnica en Python, SQL, Tableau y Power BI), investigación (publicaciones científicas y análisis de evaluación de desempeño) y acreditaciones (respaldo académico de mi formación en economía y ciencia de datos), ofreciendo evidencia sobre las competencias estratégicas desarrolladas a lo largo de mi carrera, con el objetivo de transformar datos complejos en decisiones estratégicas con rigor científico y transparencia.
 
 ##  Logros y Proyectos de Mayor Relevancia
 
